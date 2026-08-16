@@ -1,8 +1,6 @@
 # Microsoft-Sentinel-SOC-Honeypot-Lab
 Cloud-based SOC honeypot lab using Microsoft Sentinel, Azure, KQL and Windows Security Events to detect, analyze, and visualize brute-force attacks
 
-# Microsoft Sentinel SOC Home Lab – Brute-Force Detection & Global Attack Mapping
-
 ## Project Overview
 
 This project demonstrates the deployment of a cloud-based **Security Operations Center (SOC) home lab** using Microsoft Azure and Microsoft Sentinel.
