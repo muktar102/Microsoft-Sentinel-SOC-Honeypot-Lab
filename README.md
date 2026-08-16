@@ -164,7 +164,7 @@ The VM serves as the monitored endpoint and generates the authentication and Win
 
 Azure confirmed successful deployment of the virtual machine and its supporting resources.
 
-![Windows VM Deployment](images/windows-vm-deployment.png)
+![Windows VM Deployment](images/window-vm-deployment.png)
 
 ---
 
